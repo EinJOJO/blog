@@ -6,6 +6,7 @@ tags:
   - dev-journal
 aliases:
   - rerealms
+  - Realms
 ---
 This article tries summarizes my thought process in an understandable way. 
 
