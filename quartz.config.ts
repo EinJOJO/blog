@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "vault.einjojo.it",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: true,
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
