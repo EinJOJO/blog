@@ -13,17 +13,25 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
+        <div className="">
+                        <p>Johannes Schloter</p>
+          
+                    </div>
+                    <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
+                    <ul className="links">
+                    <li>
+                    <a href={"https://discordapp.com/users/959771174529810502"}>Write <span
+                                className={"text-primary-300"}>einjojo</span> on Discord</a>
+                    </li>
+                            <span className={"text-gray-700"}>|</span>
+                            <li><a href={"https://www.einjojo.it/imprint"}>Imprint</a></li>
+                            <span className={"text-gray-700"}>|</span>
+                            <li><a href={"https://www.einjojo.it/privacy"}>Privacy</a></li>
+                    </ul>
+                    
       </footer>
     )
   }

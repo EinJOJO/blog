@@ -8,18 +8,18 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Johannes' Garden",
-    pageTitleSuffix: "",
+    pageTitle: "Johannes' Blog",
+    pageTitleSuffix: "» einjojo.it",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "de-DE",
+    locale: "en-US",
     baseUrl: "vault.einjojo.it",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: false,
+    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -41,7 +41,7 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#0e0e11",
+          light: "#131318",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d8",
