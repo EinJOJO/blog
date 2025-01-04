@@ -13,7 +13,7 @@ Unsere Entscheidung, uns vom ursprünglichen Projekt zu trennen handelt von kont
 - Monatelanger Stillstand von Wandoria, stattdessen lag der Fokus auf Akani, danach Tandara.
 - Verzögerte Zahlungen und *in unseren Augen* unverhältnismäßige oder verschwenderische Ausgaben sorgten oft für Frust.
 - Das Beta-Drama: Mehrfach angekündigte Beta-Starts wurden kurzfristig verschoben oder abgesagt, ohne die Spieler umfassend zu informieren. Wenn wir uns Recht entsinnen gab uns nur eine Beta, danach ging die Entwicklung von Akani los.
-- Mangelndes technisches Know-how und unspezifische Anforderungen mache uns die Arbeit unnötig schwer. Man war plötzlich Server-Verwaltung und Plugin-Tester, statt Plugin-Entwickler.
+- Mangelndes technisches Know-how und unspezifische Anforderungen machte uns die Arbeit unnötig schwer. Man war plötzlich Server-Verwaltung und Plugin-Tester, statt Plugin-Entwickler.
   Ständig hatte man mit vermeidbaren Fehlern zu kämpfen oder musste sich um viele Kleinigkeiten kümmern. 
 
 Dennoch müssen wir Feli andere Fähigkeiten zugestehen. Er ist kreativ, ein Marketing-Ass und schafft es hervorragend die User an sich zu binden. Er war stets offen für Gespräche, jedoch hatten wir nach all dem Leid nicht die Bereitschaft etwas zu ändern, weil wir den Eindruck hatten, dass wir mit Feli nie ans Ziel gelangen würden. 
@@ -34,7 +34,6 @@ Kurz nachdem Feli unsere Machenschaften entdeckt hatte, wurden wir von seinem Di
 - **Keine billige Kopie**: 
   Wir sind keine Kopie des alten Wandoria von Feli. Ganz im Gegenteil – wir haben den Kern des Projekts neu aufgebaut und nehmen unsere Vision nun in die eigene Hand. 
   Wir möchten sie ohne ständige Verzögerungen, Nebenprojekten und Unsicherheiten fortführen und weiterentwickeln. 
-- 
 
 ### Zukunftsausblick
 Ursprünglich hatten wir geplant, auf Feli's bisherigen Erfolgen aufzubauen, um dieses Projekt voranzutreiben. Dazu zählen vor allem die Maps und Models, die eigentlich von Aernhard bezahlt wurden, jedoch auf Feli's Namen abgerechnet sind.
